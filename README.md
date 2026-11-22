@@ -1,7 +1,4 @@
-Abaixo está o conteúdo completo pronto para você copiar e salvar como README.md no seu repositório público do GitHub para a entrega do desafio na DIO.
 
-
-Markdown
 # Simulação de Ataques de Força Bruta e Mitigação com Kali Linux e Medusa
 
 > **Aviso Ético e de Escopo:** Este projeto foi desenvolvido exclusivamente em ambiente local virtualizado e isolado (*Host-Only*), com objetivos educacionais, de auditoria defensiva e de compreensão de controles de autenticação e prevenção.
@@ -94,8 +91,5 @@ smbclient //192.168.56.101/tmp -U msfadmin
 •	DVWA – Damn Vulnerable Web Application
 •	Documentação do GitHub
 
-### Como salvar como arquivo `.md`
-1. Copie todo olas iniciais e finais).
-2. Abra o Bloco de Notas (ou seu editor de texto/VS Code), cole o conteúdo e salve com o nom o tipo de arquivo não fique `.md.txt`).
-3. Envie para o seu repositório público no GitHub e cole o link na entrega do desafio.
+ GitHub e cole o link na entrega do desafio.
 
